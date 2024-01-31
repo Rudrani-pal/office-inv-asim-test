@@ -53,7 +53,7 @@
 		</headerContent>
 
 		<sections>
-			<ObjectPageSection title="General Information">
+			<ObjectPageSection title="Information">
 				<subSections>
 					<ObjectPageSubSection>
 						<blocks>
